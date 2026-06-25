@@ -1,0 +1,11 @@
+aiohttp
+kurigram
+pillow
+psutil
+py-tgcalls
+py-yt-search
+pymongo
+numpy
+pytgcrypto
+python-dotenv
+yt-dlp
